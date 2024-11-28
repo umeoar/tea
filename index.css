@@ -1,0 +1,122 @@
+html{
+    background-color:#73654a;
+    height: 100%;
+    width: 100%;
+}
+header {
+        display: flex;
+        justify-content: space-between;
+        height:80px;
+        position: relative;
+        }
+.nav{padding: 5 10px;
+    padding-top: 15px;
+}
+.qw{padding: 0 100px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    color: white;
+    font-family: Helvetica;
+    }
+    li {
+    margin: 10 10px;
+    padding-bottom: 100px;
+    }
+.smh{
+padding-left: 50px;
+display: grid;
+position: relative;
+padding-top: 40px;  
+}
+.box1{display: grid;
+    position: relative;
+    height: 100px;
+}
+.rr{position: absolute;
+}
+.tt{position: absolute;
+}
+.button{
+    display: inline-block;
+  border-radius: 12px;
+  background-color: #bcd210;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 14px;
+  padding: 20px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.ww1{
+    padding-left: 500px;
+    padding-bottom: 0px;
+    position: absolute;
+    padding-top: -10px;
+}
+.ww2{
+    padding-top: 10px;
+    padding-left: 560px;
+    position: absolute;
+}
+.ii{padding-left: 850px;
+    position: absolute;
+    padding-bottom: 100px;
+    padding-top: -100px;
+}
+.uu{padding-left: 650px;
+    position: absolute;
+    padding-bottom: 100px;
+    padding-top: -100px;
+    z-index: 2;
+}
+.hh2{
+    position: relative;
+
+}
+
+
+.oo{position:absolute;
+    padding-left: 1200px ;
+    padding-top: 50px;
+}
+.pp{position:absolute;
+    padding-left: 1195px ;
+    padding-top: 200px;
+}
+.qq{
+    background-color: #a08b5d;
+    position: relative;
+    
+    height: 600px;
+  width: 100%;
+  display:inline-block;
+  margin: 0;
+  padding: 0;
+}
+.box2{
+    position: relative;
+    display: flex
+    padding-top: 100px;
+    padding-left: 50px;
+    height: 700px;
+}
+.hh{position: relative;
+}
+.gg{
+    position: relative;
+}
+.ll{
+    position:absolute;
+   
+}
+.smh2{
+    padding-left: 50px;
+    display: grid;
+    position: relative;
+    padding-top: 40px;  
+    }
